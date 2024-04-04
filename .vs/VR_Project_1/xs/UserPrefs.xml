@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5946BD0E-DEF4-B512-E3C6-EB86980B1C42}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8bf02c6c-ae2a-499f-8601-b7f58db6fc6a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DoorAutoOpenClose.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="11" Column="16" IsPinned="True" />
+      <File FileName="Assets/Standard Assets/Utility/ForcedReset.cs" />
+      <File FileName="Assets/Standard Assets/Utility/FPSCounter.cs" />
+      <File FileName="Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" Line="38" Column="7" />
+      <File FileName="Assets/Editor/ImageEffects/ColorCorrectionLookupEditor.cs" />
+      <File FileName="Assets/Scripts/DoorAutoOpenClose.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VR_Project_1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True">
+                <Node name="CrossPlatformInput" expanded="True" />
+                <Node name="ImageEffects" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Utility" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
